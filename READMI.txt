@@ -1,0 +1,16 @@
+//created by 21343007_M.Fikry
+
+Pada jobsheet6 kita membahas tentang
+1. percabangan If
+   dimana hanya terdapat sebuah kondisi pada pemilihan IF
+2. percabangan if else
+   dimana jika kondisi tidak terpenuhi maka pernyataan 
+   pada bagian ELSE yang akan dikerjakan
+3. percabangan if-else-if
+   dimana jika pada bentuk pertama dan ke-2 hanya memiliki satu kondisi pada bentuk yang ketiga percabangan
+   memiliki lebih dari satu kondisi
+4. percabangan switch-case
+   dimana jika di percabangan IF terdapat beberapa kondisi, pada pemilihan switch
+   akan ada beberapa case yang dapat kita buat, jika nilai yang menjadi nilai pembanding
+   sama dengan case yang ada atau kata lainnya jika suatu case pada pemilihan switch
+   bernilai true maka pernyataan pada case tersebut yang akan dieksekusi
